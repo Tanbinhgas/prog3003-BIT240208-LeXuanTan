@@ -25,7 +25,7 @@ public class FruitListDemo {
         System.out.println("Sau khi them Mango: " + fruits);
         
         int indexBanana = fruits.indexOf("Banana");
-        if (indexBanana != -1) {  // Kiểm tra xem có tìm thấy không
+        if (indexBanana != -1) {
             fruits.set(indexBanana, "Grapes");
         }
         System.out.println("Sau khi thay Banana bang Grapes: " + fruits);
