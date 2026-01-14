@@ -48,7 +48,7 @@ public class TestPair {
         System.out.println("Cap 1:");
         System.out.println("Key   : " + pair1.getKey());
         System.out.println("Value : " + pair1.getValue());
-        System.out.println("toString: " + pair1);   // dùng toString nếu có
+        System.out.println("toString: " + pair1);
         
         System.out.println("\n---\n");
         
