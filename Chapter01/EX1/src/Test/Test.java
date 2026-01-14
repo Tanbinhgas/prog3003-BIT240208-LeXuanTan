@@ -8,7 +8,6 @@ package Test;
  *
  * @author tanbinhgas
  */
-// File: Test.java
 public class Test<T> {
     
     private T value;
