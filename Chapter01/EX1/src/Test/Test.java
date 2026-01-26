@@ -8,9 +8,6 @@ package Test;
  *
  * @author tanbinhgas
  */
-// File: Test.java
-// (Bạn có thể đặt tên file là Test.java hoặc đặt trong package nếu cần)
-
 public class Test<T> {
     
     private T value;
